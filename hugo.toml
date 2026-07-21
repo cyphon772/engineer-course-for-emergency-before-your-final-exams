@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'zh-cn'
+title = '此网站正在施工中，请若干年后再来吧'
+theme = 'PaperMod'
